@@ -4,9 +4,12 @@
 <b>Goals</b>
 <p>2023 I learned HTML, CSS and JS </p>
 <p>2024</p>
-<p>Learning how to use  React</p>
-<p>Learning how to use tailwind</p>
-<p>Create a an API</p>
+<p>Learning how to use  React
+<br>
+Learning how to use tailwind
+<br>
+  Create a an API
+</p>
 
 <!---
 Txuli17/Txuli17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
