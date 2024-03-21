@@ -1,14 +1,14 @@
 <b>Im ready to learn:)<b/>
 <h1> About me </h1
-<p>🌱 I’m currently learning: Im learnin how to create webs in React<p/>
+<p>🌱 Currently, I'm learning how to create websites using React<p/>
 <b>Goals</b>
-<p>2023 I learned HTML, CSS and JS </p>
+<p>In 2023, I learned HTML, CSS, and JavaScript</p>
 <p>2024</p>
-<p>Learning how to use  React
+<p>I'm learning how to create websites using React
 <br>
 Learning how to use tailwind
 <br>
-  Create a an API
+  Create an API
 </p>
 
 <!---
