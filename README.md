@@ -1,7 +1,11 @@
 # 💫 About Me:
 - 🔭 I’m currtently working as Frontent Developer<br>- 📚 I'm currently learning next.js for my projects<br>- ⚡ In my free time I take photos
 
-
+## Projects in Progress
+```js
+My-Gallery:         "[■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■□□ □□□□□ □□□□□] 73%"
+Future-Project:      "[■■□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 2%"
+```
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,java)](https://skillicons.dev)
 # 📊 GitHub Stats:
