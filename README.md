@@ -4,10 +4,10 @@
 ## Projects in Progress
 ```js
 My-Gallery:         "[■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■□□ □□□□□ □□□□□] 73%"
-Future-Project:      "[■■■■■ ■■■■■ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 10%"
+ImmichSync:      "[■■■■■ ■■■■■ ■■■■■ ■■■■■ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 20%"
 ```
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,java,rust)](https://skillicons.dev)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=txuli&theme=dark&hide_border=false)<br/>
