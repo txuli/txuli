@@ -4,7 +4,7 @@
 ## Projects in Progress
 ```js
 My-Gallery:         "[■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■□□ □□□□□ □□□□□] 73%"
-ImmichSync:      "[■■■■■ ■■■■■ ■■■■■ ■■■■■ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 20%"
+ImmichSync:         "[■■■■■ ■■■■■ ■■■■■ ■■■■■ ■■■□□ □□□□□ □□□□□ □□□□□ □□□□□ □□□□□] 23%"
 ```
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,java,rust)](https://skillicons.dev)
